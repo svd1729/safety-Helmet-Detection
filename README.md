@@ -1,4 +1,4 @@
-# Safety Helmet Detection using Fast R-CNN (PyTorch)
+# Safety Helmet Detection using Faster R-CNN (PyTorch)
 
 This project focuses on detecting and localizing safety helmets in images using a **Pretrained Faster R-CNN model built in PyTorch** implementing transfer learning. Ensuring that workers wear helmets in construction and industrial environments is crucial for safety compliance, and this model automates the monitoring process using computer vision.
 
