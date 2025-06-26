@@ -28,9 +28,7 @@ Evaluation Metric: Mean Average Precision (mAP)
 
 Test Performance:
 
-• mAP @ IoU=0.50: 0.6117
-
-• mAP @ IoU=0.75: 0.4322
+• Obtained the best mAP = 0.6117 @ IoU=0.50
 
 
 Visualizations of predictions were plotted using Matplotlib and OpenCV to verify correct bounding box placement and class predictions.
@@ -39,4 +37,4 @@ Visualizations of predictions were plotted using Matplotlib and OpenCV to verify
 
 B.Tech + M.Tech in Mechanical & Financial Engineering
 
-Indian Institute of Technology, Kharagpur (IIT Kharagpur)
+Indian Institute of Technology, Kharagpur
